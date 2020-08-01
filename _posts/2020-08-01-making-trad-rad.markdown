@@ -9,7 +9,7 @@ featured:
 
 I had racked a double set of cams, way too many nuts, and strangely enough a good selection of hexes. 
 I had read about hexes online and they made sense (they really don’t if you have cams). 
-At least it must have been easy to spot my gumbyness if the awkward climbing didn’t give that away (it probably did).
+At least it made spotting my gumbyness easy if the awkward climbing didn’t give that away (it probably did).
 I was on my first trad lead three years ago on “After 6”, a popular 5.7 multi pitch in Yosemite. 
 I was scared out of my mind, way too gripped, struggled to place pro, and dropped a carabiner while awkwardly setting the first anchor. 
 We were so slow that we bailed before the last 5.6 pitch. Gumby.
