@@ -40,6 +40,8 @@ To stop making excuses not to lead in the gym, I even stopped top-roping complet
 This really helped with getting better and more confident at lead, which has translated to better outdoor climbing.
 Outdoor sport climbing obviously also helps with getting better at moving on rock, although trad climbs are typically a bit different in style.
 
+![sport-climbing](/images/posts/making-trad-rad/redrocks.jpg)
+
 Get strong
 ---
 Good climbing technique is key, but being (a lot) stronger than you need to be on a climb gives some margin when things get confusing. 
@@ -48,6 +50,8 @@ You’ll see plenty of older, slightly out of shape, trad climbers out there cru
 But they probably have been at it for a while, and can be a lot more efficient with movement and gear placement. 
 If you’re only climbing 5.9 sport, you probably shouldn’t get on 5.7 trad. 
 I’m climbing 5.12c indoors, 5.11d sport outdoors, but only lower 5.10 trad.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eXAeNRvWnP4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Get a guide or a mentor
 ---
