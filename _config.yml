@@ -4,7 +4,7 @@ title: Paul about climbing
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Blog site sharing trip experiences and climbing tips from just another mediocre climber.
 baseurl: "" # The subpath of your site, e.g. /blog
-url: "http://climbing.paulbakker.io" # The base hostname & protocol for your site, e.g. http://example.com
+url: "https://climbing.paulbakker.io" # The base hostname & protocol for your site, e.g. http://example.com
 
 
 #-------------------------------
@@ -12,7 +12,6 @@ url: "http://climbing.paulbakker.io" # The base hostname & protocol for your sit
 author:
   avatar: '/images/avatar.jpg'
   name: Paul Bakker
-  job: Amateur climber and photographer
 
 social:
 - {icon: "ion-logo-instagram", link: "https://www.instagram.com/paul.bakker"}
@@ -30,7 +29,6 @@ slider: true # NOTE - By default, the slider is set to display featured posts. T
 # Contact Settings
 contact:
   email: paul.bakker.nl@gmail.com # Add your email for contant form
-  description: Bonso comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
 
 # NOTE
 # Bonso comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.
