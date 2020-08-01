@@ -2,7 +2,7 @@
 # General Site Settings
 title: Paul about climbing
 logo: # You can add own logo. For example '/images/logo.png'.
-description: My name is Paul Bakker, avid amateur climber and photographer.
+description: Blog site sharing trip experiences and climbing tips from just another mediocre climber.
 baseurl: "" # The subpath of your site, e.g. /blog
 url: "http://climbing.paulbakker.io" # The base hostname & protocol for your site, e.g. http://example.com
 
