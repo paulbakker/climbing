@@ -2,13 +2,11 @@
 layout: post
 title:  Making Trad rad
 date:   2020-08-01
-image:  '/images/about/posts/making-trad-rad/hospital-corner.jpg'
+image:  '/images/posts/making-trad-rad/hospital-corner.jpg'
 tags:   [climbing]
 featured:
 ---
 
-The road to making trad rad
----
 I had racked a double set of cams, way too many nuts, and strangely enough a good selection of hexes. 
 I had read about hexes online and they made sense (they really don’t if you have cams). 
 At least it must have been easy to spot my gumbyness if the awkward climbing didn’t give that away (it probably did).
