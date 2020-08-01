@@ -59,6 +59,7 @@ Don’t try to just figure it out.
 Ideally you can follow a confident leader for some days to get an idea how the climbing feels, how to recognize belay ledges and gear placements. 
 If you can’t find anyone, hire a guide to climb with. 
 When ready to do your first leads, have someone with experience follow you to give feedback on placements and anchors.
+If you're in Northern California I highly recommend [Lover's Leap Guides](https://www.loversleap.net/). 
 
 Read and practice on the ground
 ---
@@ -67,12 +68,16 @@ But a lot of it can be practiced on the ground.
 Just hang some draws somewhere and build anchors over and over again until it’s super smooth. 
 Also read everything you can on building anchors and self rescue, and practice everything you read.
 
+![anchor](/images/posts/making-trad-rad/anchor.jpg)
+
 Practice crack climbing
 ---
 Even when many trad climbs aren’t pure crack climbs, the fact that they are trad routes means there will be some cracks at least. 
 Knowing how to use them is often critical to not make the climbing much harder than the grade. 
 Practice jamming on artificial cracks in the climbing hall. 
 It’s frustrating and painful to start, but once you have the technique down a hand jam or finger lock will just feel glorious. 
+
+![cracks](/images/posts/making-trad-rad/crack.jpg)
 
 When you don’t trust it, don’t place it
 ---
@@ -88,12 +93,16 @@ Some routes just don’t have great placements.
 This is often mentioned in the guidebook or on Mountain Project. 
 Just stay away from those routes until you’re more experienced.
 
+![cam](/images/posts/making-trad-rad/cam.jpg)
+
 Bounce test on a top rope
 ---
 Another way to get familiar and confident in gear placement is setting up a top rope on a single pitch crack. 
 Place gear and put your body weight on it by stepping in a sling. 
 Or even more fun, get some aid ladders and aid climb the whole pitch. 
 Bounce testing doesn’t nearly put the same forces on a piece as a fall, but it’s still a useful way to practice placements.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BU7uVPLCjQk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Bring a lot of gear, but only the right gear
 ---
@@ -107,6 +116,8 @@ Is there any scenario where you’re going to use those ten steel lockers?
 Also, bring some light approach shoes instead of heavy hiking shoes. 
 Take a photo of the guidebook instead of hauling up the book itself.
 
+![Don't bring all of this](/images/posts/making-trad-rad/gear.jpg)
+
 Buy the guidebook
 ---
 Mountain Project is a great resource to find information about routes. 
@@ -115,3 +126,4 @@ Rely on the local guide book primarily.
 It typically contains a topo, which is crucial to help with route finding. 
 The descriptions are often also more reliable, because Mountain Project pages are sometimes just too minimalistic or provide information that’s just wrong.
 
+![Books](/images/posts/making-trad-rad/books.jpeg)
