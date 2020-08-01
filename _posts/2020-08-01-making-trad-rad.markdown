@@ -35,7 +35,9 @@ But also the same in some aspects.
 Even indoor sport climbing can really help build confidence in leading. 
 Leading is scary - and if you haven’t yet got your head game ready in the gym, being on a trad is going to be way more scary. 
 Sport climbing also teaches you to clip from good positions, instead of clipping whenever you can almost touch the bolt. 
-This is even more important when fiddling with gear obviously. 
+This is even more important when fiddling with gear obviously.
+To stop making excuses not to lead in the gym, I even stopped top-roping completely (aside from some specific training exercises) for months, just to make leading the "normal" thing to do.
+This really helped with getting better and more confident at lead, which has translated to better outdoor climbing.
 Outdoor sport climbing obviously also helps with getting better at moving on rock, although trad climbs are typically a bit different in style.
 
 Get strong
