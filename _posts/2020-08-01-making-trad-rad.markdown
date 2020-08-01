@@ -2,7 +2,7 @@
 layout: post
 title:  Making Trad rad
 date:   2020-08-01
-image:  '/images/about/1.jpg'
+image:  '/images/about/posts/making-trad-rad/hospital-corner.jpg'
 tags:   [climbing]
 featured:
 ---
