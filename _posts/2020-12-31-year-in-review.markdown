@@ -84,7 +84,7 @@ The climb requires a variety of crack techniques, from fingers to offwidth.
 Not the hardest grade I've done on gear, but definitely the hardest climb with it being so long and sustained.
 
 ![Central Pillar](/images/posts/2020-review/central-pillar.jpeg)
-_Pitch three of Central Pillar of Frenzy. Nice hands into a roof into an offwidth._
+_Pitch three of Central Pillar of Frenzy. Nice hands into a roof into an offwidth. Also, no barber for 5 months..._
 
 ![Looking down at the twin cracks of pitch 2](/images/posts/2020-review/central-pillar-twin-cracks.jpeg)
 _Looking down the twin cracks of pitch 2 on Central Pillar of Frenzy_
@@ -113,7 +113,7 @@ _Qiushi killing it at Smith Rock_
 _Qiushi a few hours later...._
 
 Because it was four of us on the trip, we continued climbing the rest of the week.
-I was hoping to climbing my first 5.12a, and picked a 33 meter route Bolt From the Blue.
+I was hoping to climb my first 5.12a, and picked the 33 meter "Bolt From the Blue" route.
 After three sessions I came very close to sending, but ultimately didn't make it.
 It was such a fun route to try though!
 
