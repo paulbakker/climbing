@@ -61,6 +61,9 @@ Highlights include Surrealistic Pillar Direct, my first 5.10b on gear, (and whip
 ![Surrealistic Pillar Direct](/images/posts/2020-review/surrealistic.jpeg)
 _Looking up a Surrealistic Pillar Direct 5.10b._
 
+![The cam that caught my first fall on gear](/images/posts/2020-review/trad-fall.jpeg)
+_The cam that caught my first fall on gear, while trying Surrealistic Pillar Direct for the first time._
+
 ![Hospital Corner](/images/posts/2020-review/hospital-corner.tiff)
 _Almost at the top of Hospital Corner 5.10a._
 
@@ -81,7 +84,7 @@ The climb requires a variety of crack techniques, from fingers to offwidth.
 Not the hardest grade I've done on gear, but definitely the hardest climb with it being so long and sustained.
 
 ![Central Pillar](/images/posts/2020-review/central-pillar.jpeg)
-_Pitch one of Central Pillar of Frenzy. That was a lot of work for a 5.9._
+_Pitch three of Central Pillar of Frenzy. Nice hands into a roof into an offwidth._
 
 ![Looking down at the twin cracks of pitch 2](/images/posts/2020-review/central-pillar-twin-cracks.jpeg)
 _Looking down the twin cracks of pitch 2 on Central Pillar of Frenzy_
