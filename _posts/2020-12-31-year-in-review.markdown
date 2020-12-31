@@ -46,7 +46,7 @@ I would probably not have tried many of them that turned out to be really fun.
 This also helped to build a good base of many more 5.11 climbs.
 
 [![Donkey Dong 5.11d](/images/posts/2020-review/donkey-dong.png)](https://youtu.be/1a_qWWg4prw)
-
+_Donkey Dong 5.11d. Click for video of a failed attempt._
 
 At the end of the year I started trying Clamydia 5.12a, and managed to link all the hard moves.
 During a red point attempt just before the end of the year I climbed through the crux, but slipped out of the crucial knee bar because that section was wet.
@@ -59,11 +59,13 @@ I've spent a lot of days climbing at Lover's Leap during summer.
 Highlights include Surrealistic Pillar Direct, my first 5.10b on gear, (and whipping on it on the first attempt), Hospital Corner 5.10a and Traveler Buttress 5.9.
 
 ![Surrealistic Pillar Direct](/images/posts/2020-review/surrealistic.jpeg)
+_Looking up a Surrealistic Pillar Direct 5.10b._
 
 ![Hospital Corner](/images/posts/2020-review/hospital-corner.tiff)
+_Almost at the top of Hospital Corner 5.10a._
 
 ![Traveler Buttress](/images/posts/2020-review/traveler.jpeg)
-
+_Pitch two of Traveler Buttress, a 5.9 offwidth._
 
 Yosemite
 ----
@@ -79,16 +81,21 @@ The climb requires a variety of crack techniques, from fingers to offwidth.
 Not the hardest grade I've done on gear, but definitely the hardest climb with it being so long and sustained.
 
 ![Central Pillar](/images/posts/2020-review/central-pillar.jpeg)
+_Pitch one of Central Pillar of Frenzy. That was a lot of work for a 5.9._
+
 ![Looking down at the twin cracks of pitch 2](/images/posts/2020-review/central-pillar-twin-cracks.jpeg)
+_Looking down the twin cracks of pitch 2 on Central Pillar of Frenzy_
 
 The other highlight was the 2000ft Royal Arches, making it back to the ground with some daylight left to spare!
 
 ![Royal Arches](/images/posts/2020-review/royal-arches.jpeg)
+_Looking up the blank slab halfway up Royal Arches._
 
 We also did a repeat (my third time) of Cathedral Peak in Tuolumne, clocking in the 700ft climb in under 2 hours.
 It's an easy climb, but it's so beautiful that it's totally worth repeating.
 
 ![Cathedral Peak](/images/posts/2020-review/cathedral-peak.jpeg)
+_The top of Cathedral Peak, much nicer than last year's thunderstorm._
 
 Smith Rock
 ----
@@ -97,7 +104,10 @@ After a long summer of mostly trad climbing it was finally time for some good sp
 The trip started off not great, with my wife Qiushi breaking her foot on day one, landing her in the emergency room.
 
 ![Qiushi Climbing](/images/posts/2020-review/qiushi-climbing.jpeg)
+_Qiushi killing it at Smith Rock_
+
 ![Qiushi in the emergency room](/images/posts/2020-review/qiushi-hospital.jpeg)
+_Qiushi a few hours later...._
 
 Because it was four of us on the trip, we continued climbing the rest of the week.
 I was hoping to climbing my first 5.12a, and picked a 33 meter route Bolt From the Blue.
@@ -105,6 +115,7 @@ After three sessions I came very close to sending, but ultimately didn't make it
 It was such a fun route to try though!
 
 ![Bolt form the Blue](/images/posts/2020-review/bolt-from-the-blue.jpeg)
+_Bolt from the Blue 5.12a_
 
 I love climbing at Smith, there are just so many good routes to choose from.
 I'm definitely hoping to go for another trip in 2021.
@@ -123,6 +134,7 @@ The Tension board has been extremely helpful during the following lock downs.
 Training on the board 2-3 times a week helped me gain a lot of power already, which has been very apparent on my new 5.12a project.
 
 ![Tension Board](/images/posts/2020-review/tension-board.jpeg)
+_The Tension Board in all its glory_
 
 Final thoughts
 ----
